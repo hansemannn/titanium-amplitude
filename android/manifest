@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 4
+architectures: arm64-v8a armeabi-v7a x86 x86_64
+description: titanium-amplitude
+author: Hans Knöchel
+license: MIT
+copyright: Copyright (c) 2021 by Hans Knöchel
+
+# these should not be edited
+name: titanium-amplitude
+moduleid: ti.amplitude
+guid: fc1beffe-515b-4549-9be3-155483a95b6d
+platform: android
+minsdk: 10.0.0
